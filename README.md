@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoeyEatonCoding
-- 👀 I’m interested in Cybersecurity, and Database Management using SQL
-- 🌱 I’m currently learning about networking
+- 👀 I’m interested in Coding, and Database Management using SQL/Python
+- 🌱 I’m currently learning about Java
 - 📫 How to reach me: Send me an email jeaton10408@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm interested in math
